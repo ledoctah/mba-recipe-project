@@ -19,7 +19,7 @@ cd mba-recipe-project
 ```
 3. Open `index.html` in your preferred web browser
 
-## Project showcase
+## 💻 Project showcase
 
 <img width="1437" alt="Image that shows the project index.html page. The page shows a coffee cupcakes with whipped cream, topped with coffee beans. The recipe page includes ingredients and instructions for making the cupcakes." src="https://github.com/ledoctah/mba-projeto-receitas/assets/50998959/d93412b9-5bcb-43c5-b891-67092f0f8149">
 
